@@ -1,2 +1,2 @@
-print('hello world git & python!')
+print('hello world git & hello python!')
 1989
